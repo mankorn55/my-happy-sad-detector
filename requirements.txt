@@ -1,0 +1,5 @@
+Library:
+streamlit
+tensorflow
+pillow
+numpy
